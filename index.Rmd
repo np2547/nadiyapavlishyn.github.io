@@ -3,10 +3,15 @@ title: "Nadiya Pavlishyn"
 ---
 <center>
 
-![view of NYC](https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e15/10245948_632872036801809_1673628322_n.jpg)
+![](https://scontent-atl3-1.cdninstagram.com/t51.2885-15/e35/11910164_1086690554682317_946770949_n.jpg)  
+  
+  
+## Hi! 
+## Welcome to my page!  
 
+Besides pizza, I like math and when my R code does what I intend for it to. 
 
-My name is __Nadiya Pavlishyn__. In 2015, I graduated __Stony Brook University__ with a B.S. in Applied Math and Statistics, with a double major in Economics. For two years, I worked at __NYU Langone Medical Center__ in research spanning from hospital primary care clinic quality improvement projects to medical education both in a quantitative and qualitative domain.  In September 2017, I began my Master's of Science in Biostatistics at __Columbia University Mailman School of Public Health__ to continue my education as an aspiring biostatistician.
+For more information about me, please use the site navigation bar at the top of this page.
 
 
 </center>
