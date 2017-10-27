@@ -1,0 +1,86 @@
+---
+title: "Nadiya Pavlishyn"
+---
+
+<link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+</html>
+
+<style>
+  h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+  }
+</style>
+
+     
+###__<span style="color:#35EEE7">EDUCATION</span>__  
+#####__Columbia University Mailman School of Public Health__   
+Masters of Science: _Biostatistics_  
+May 2019 (New York, NY)  
+
+#####__Stony Brook University__  
+Bachelors of Science: _Applied Math and Statistics, Economics_  
+May 2015 (Stony Brook, NY)  
+__Honors:__
+Graduated Cum Laude, Phi Beta Kappa, Sigma Beta Honor Society, National Society of Collegiate Scholars  
+__Highlighted Coursework:__
+ Mathematical Biology, Data Analysis, Deterministic/Stochastic Models, Probability Theory, Macro/Microeconomics  
+__Teaching Assistantships:__ Data Analysis (Spring 2015), Applied Calculus I (Fall 2014)
+
+* Proctor and grade exams  
+* Assess incorrect calculations  
+* Hold weekly office hours  
+* Plan review sessions  
+* Communicate macro-learning issues effectively to professor  
+  
+###__<span style="color:#35EEE7">PROFESSIONAL EXPERIENCE</span>__ 
+#####__NYU Langone Medical Center__ (New York, NY)  
+_Research Data Associate_, September 2015 - August 2017  
+
+* Coordinate logistics of project components: Guide interventions, focus groups, prepare and process all documentation through Institutional Review Board (IRB), lead informed consent conversations for three large scale research projects  
+*  Chair data cleaning, management, analysis efforts, compile reports, communicate and present results to faculty  
+* Supervise and train interns in research protocols, data management, entry, patient follow-up, and data analysis  
+* Compose study protocols, consents, abstracts, and manuscripts  
+
+#####__Columbia University Mailman School of Public Health__ (New York, NY)  
+__Department of Biostatistics__, _BEST Program Research Assistant_, May 2015 - July 2015 
+
+* Collaborate with pediatric cardiologist in conducting research project focused on role of genetics in hypertrophic cardiomyopathy  
+* Devise a model using logistic regression to predict the probability of a positive result in genetic testing to assess clinical yield for organizations such as insurance companies  
+* Shadow research mentor in patient visits and echocardiogram interpretations at Columbia University Medical Center- New York Presbyterian Hospital  
+
+
+#####__Stony Brook University__ (New York, NY)  
+__Department of Applied Math and Statistics__  
+_Computational Biology Research Assistant_, May 2014 - September 2014  
+* Work as sole undergraduate Research Assistant among three PhD students to develop Ordinary Differential Equations modeling monomer and dimer concentrations  
+* Effectively communicate results used to faculty for departmental research project focused on gene expression and regulation supporting head professor in project  
+
+
+
+###__<span style="color:#35EEE7">COMMUNITY INVOLVEMENT</span>__ 
+
+
+
+
+
+
+
+
+
+
+
+###__<span style="color:#35EEE7">Skills and Ceritifications</span>__  
+
+* __Technical:__ Microsoft Office (Excel, PowerPoint, Word), Java, MATLAB, R, SAS (basic), Dedoose qualitative coding software, Outlook, PeopleSoft
+* __Language:__ Ukrainian, Russian, Spanish (basic)
+* __Certifications:__ HIPAA Patient Privacy, CITI Human Subjects and Biomedical Research Training, IRB protocols
+
+
+###__<span style="color:#35EEE7">Abstracts</span>__ 
+* Pavlishyn, N., Altshuler, L., Maloney, K., Zabar, S., Plaksin, J., Kalet, A., and Wallach, A. (2017, January 3) Patient Empowerment Program (PEP) has a Lasting Impact: Patient Report Over a Year Later. (Poster presentation at annual Society of General Internal Medicine conference in Washington, D.C. in April 2017)  
+* Altshuler, L., Pavlishyn, N., Saviola, E., Dembitzer, A., Greene, R., Wallach, A., Smith, R., Crotty, K., Schwartz, M., and Zabar, S. (2017, January 3) Creating a Sustainable Interprofessional Ambulatory Care Team Training: All hands on deck. (Poster presentation at annual Society of General Internal Medicine conference in Washington, D.C. in April 2017)  
+*Altshuler, A., Carfagno, M., Pavlishyn, N., Dembitzer, A., Crotty, K., Greene, R., Wallach, A., Smith, R., Porter, B., Hanley, K., Zabar, S., and Schwartz, M. (2017, January 3) Patient Experience: Comparison of Primary Care Patients’ and Unannounced Standardized Patients’ Perceptions of Care. (Poster presentation at annual Society of General Internal Medicine conference in Washington, D.C. in April 2017)  
+* Pavlishyn, N., Plaksin, J., Gershgorin, I., Tang, K., Zabar, S., Kalet, A., and Altshuler, L. (2016, January 13) Relationships Between Patient Activation, Preferences for Self-Directed Care, and Diabetes Self-Management Behaviors in a Low Health Literacy Population. (Poster presentation at annual Society of General Internal Medicine conference in Hollywood, Florida in May 2016)  
+* Plaksin, J., Pavlishyn, N., Kalet, A., Zabar, S., Wallach, A., Kundrod, S., and Altshuler, L. (2016, January 13) Developing a Patient Empowerment Program (PEP) to Achieve Better Patient Outcomes by Preparing Patients to Participate in Medical Encounters. (Poster presentation at annual Society of General Internal Medicine conference in Hollywood, Florida in May 2016)  
+* Tang, K., Plaksin, J., Pavlishyn, N., Kalet, A., Zabar, S., &amp; Altshuler, L. (2016, January 13) Changing Patients’ Perspectives on Shared Decision-Making (SDM): A Qualitative Approach. (Oral presentation at annual Society of General Internal Medicine conference in Hollywood, Florida in May 2016)

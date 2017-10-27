@@ -1,0 +1,17 @@
+name: "Nadiya Pavlishyn"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: CV
+      href: cv.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<np2547@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/<YOUR_GH_NAME>/
+output:
+  html_document:
+  theme: flatly
+  
