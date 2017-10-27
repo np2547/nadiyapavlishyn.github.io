@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: CV
-      href: cv.html
+      href: CV.html
     - icon: fa-envelope fa-lg
       href: mailto:<np2547@cumc.columbia.edu>
     - icon: fa-github fa-lg
