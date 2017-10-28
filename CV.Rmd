@@ -23,8 +23,8 @@ Bachelors of Science: _Applied Math and Statistics, Economics_
 May 2015 (Stony Brook, NY)  
 __Honors:__
 Graduated Cum Laude, Phi Beta Kappa, Sigma Beta Honor Society, National Society of Collegiate Scholars  
-__Highlighted Coursework:__
- Mathematical Biology, Data Analysis, Deterministic/Stochastic Models, Probability Theory, Macro/Microeconomics  
+__Highlighted Coursework:__  
+Mathematical Biology, Data Analysis, Deterministic/Stochastic Models, Probability Theory, Macro/Microeconomics  
 __Teaching Assistantships:__ Data Analysis (Spring 2015), Applied Calculus I (Fall 2014)
 
 * Proctor and grade exams  
