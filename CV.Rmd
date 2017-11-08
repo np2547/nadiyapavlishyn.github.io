@@ -53,6 +53,7 @@ __Department of Biostatistics__, _BEST Program Research Assistant_, May 2015 - J
 #####__Stony Brook University__ (New York, NY)  
 __Department of Applied Math and Statistics__  
 _Computational Biology Research Assistant_, May 2014 - September 2014  
+
 * Work as sole undergraduate Research Assistant among three PhD students to develop Ordinary Differential Equations modeling monomer and dimer concentrations  
 * Effectively communicate results used to faculty for departmental research project focused on gene expression and regulation supporting head professor in project  
 
